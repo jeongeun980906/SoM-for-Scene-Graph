@@ -26,7 +26,7 @@ The code is in [scene.ipynb](./scene.ipynb) file
 
 **1. SoM with Semantic-SAM**
 
-<img src="./images/output.png" alt="mask" class="bg-primary mb-1" width="400px">
+<img src="./images/output.png" alt="mask" class="bg-primary mb-1" width="600px">
 
 **2. Scene graph generation via GPT4V**
 
@@ -69,4 +69,4 @@ Edge:
 
 Input: "A coke can on the table"
 
-<img src="./images/dalle.png" alt="dalle" class="bg-primary mb-1" width="600px">
+<img src="./images/dalle.png" alt="dalle" class="bg-primary mb-1" width="800px">
