@@ -21,8 +21,15 @@ cd ops && sh make.sh && cd ..
 ```
 Download your weights in ckpt folder from [SeSAM](https://github.com/UX-Decoder/Semantic-SAM) (SwinL)!
 
+
 ### Run the code
 The code is in [scene.ipynb](./scene.ipynb) file
+
+
+**Don't forget to put your OpenAI API key on the './key/key.txt' file**!
+
+
+Please Edit the 2nd cell for your own key file path. 
 
 **1. SoM with Semantic-SAM**
 
